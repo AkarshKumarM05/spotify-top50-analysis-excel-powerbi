@@ -6,7 +6,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-> An end-to-end data analytics project analyzing Spotify’s Top 50 Global songs using Power BI, Excel, and 21 custom DAX measures — with a custom background designed in Figma.
+> An end-to-end data analytics project analyzing Spotify’s Top 50 Global songs using Power BI, Excel, and 21 custom DAX measures with a custom background designed in Figma.
 
 ---
 
