@@ -239,11 +239,6 @@ Based on the analysis of Spotify's Top 50 Global chart data:
 
 ---
 
-## 📸 Dashboard Screenshots
-
-![Spotify Top 50 Dashboard Screenshot 1](assets/dashboard-1.png)
-
-![Spotify Top 50 Dashboard Screenshot 2](assets/dashboard-2.png)
 
 ## 👨‍💻 Author & Contact
 
