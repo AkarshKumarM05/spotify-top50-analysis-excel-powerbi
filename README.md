@@ -23,6 +23,7 @@
 - [Dashboard](#-dashboard)
 - [How to Run This Project](#-how-to-run-this-project)
 - [Final Recommendations](#-final-recommendations)
+- [Dashboard Screenshots](#-dashboard-screenshots)
 - [Author & Contact](#-author--contact)
 
 ---
@@ -178,8 +179,6 @@ The Power BI dashboard consists of **4 interactive pages**:
 | 🎤 **Artist Analysis** | Top artists by song count; drill-down into artist-level songs, avg popularity, avg position |
 | 🎵 **Songs Analysis** | Top songs by popularity; distribution by album type; detailed song table with release date & chart stats |
 
-> Dashboard screenshots are available in the `assets/` folder.
-
 ---
 
 ## 🚀 How to Run This Project
@@ -239,14 +238,27 @@ Based on the analysis of Spotify's Top 50 Global chart data:
 
 ---
 
+## 📸 Dashboard Screenshots
+
+**Home Page**
+
+![Home Page](assets/Screenshot%202026-03-30%20013932.png)
+
+**Overview Page**
+
+![Overview Page](assets/Screenshot%202026-03-30%20013954.png)
+
+---
 
 ## 👨‍💻 Author & Contact
 
-**Akarsh Kumar**  
+**Akarsh Kumar**
 B.Com (Hons) | Data Analytics Enthusiast
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulnama02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshkpandey)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkarshKumarM05)
+📧 Email: [tulnama02@gmail.com](mailto:tulnama02@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/akarshkpandey](https://www.linkedin.com/in/akarshkpandey)
+🔗 GitHub: [github.com/AkarshKumarM05](https://github.com/AkarshKumarM05)
+
+---
 
 > ⭐ If you found this project useful, please give it a star — it helps a lot!
